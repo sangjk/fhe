@@ -1,16 +1,20 @@
-更新时间 2023-11-03 12:26
-所有免费节点都爬取自网络，请勿用于非法用途
+每天三次更新 更新时间 2023-11-03 12:46
+所有免费节点来源与网络，请勿用于非法用途
+工具是v2ray 可转换成小火箭 shadowsocks Clash 可生成二维码
+工具自行下载  电脑、手机、iOS、Android、windows、Mac、Linux、路由器翻墙都可以使用
+ios直接使用小火箭
 |  工具  | Android  | Windows  |
 |  ----  | ----   | ----  |
 | v2ray  | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.6.28/v2rayNG_1.6.28_arm64-v8a.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip) |
 ### v2rayN使用教程：[点击查看](https://github.com/freefq/tutorials)
 ### 节点导入方法
-CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点
+全选复制，在v2rayN客户端内，选择从剪贴板批量导入URL，所有节点都已经添加成功
 ### 节点更新订阅
 - `https://bulinkbulink.com/freefq/free/master/v2`
-### 自建节点订阅
-[bulink.xyz](https://bulink.xyz)注册（要翻墙）除可订阅本页免费节点，还有每月5G自建节点免费流量，不用打卡签到长期有效，欢迎体验
-新开bulink镜像站[burstlinker.com](https://www.burstlinker.com)（不需要翻墙）
+在订阅设置里面添加上方链接，会自动更新节点，手动或者自动都可以。
+
+### 免费节点稳定性还是有限制
+下面经过测试可以使用vpn软件 电脑手机全平台通用，可以解决稳定各种游戏视频chatgpt YouTube tiktok 奈飞 如果资金充裕 又不会自建通道，还是选择稳定的通道[fastestvpn](https://fststvpn.com/6543980b8a765)
 ## v2ray
 ```
 vmess://eyJhZGQiOiAiMTA3LjE2Ny4xNi44NSIsICJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRcdTUyYTBcdTUyMjlcdTc5OGZcdTVjM2NcdTRlOWFcdTVkZGVcdTZkMWJcdTY3NDlcdTc3ZjZcdTVlMDJTaGFya1RlY2hcdTY1NzBcdTYzNmVcdTRlMmRcdTVmYzMgMSIsICJwb3J0IjogNDQzLCAiaWQiOiAiNzY0MGExZTctOTcwMS00MjhlLWE0YjItMTliM2U3ZGQ2ZjlmIiwgImFpZCI6ICI2NCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3d3cuNTExMDkwNTcueHl6IiwgInBhdGgiOiAiL3BhdGgvMDgwODIyMjcyOTE0IiwgInRscyI6ICJ0bHMifQ==
